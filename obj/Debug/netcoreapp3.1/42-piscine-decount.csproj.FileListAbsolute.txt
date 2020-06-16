@@ -25,3 +25,4 @@
 /Users/lucas/Desktop/42-piscine-decount/obj/Debug/netcoreapp3.1/42-piscine-decount.dll
 /Users/lucas/Desktop/42-piscine-decount/obj/Debug/netcoreapp3.1/42-piscine-decount.pdb
 /Users/lucas/Desktop/42-piscine-decount/obj/Debug/netcoreapp3.1/42-piscine-decount.genruntimeconfig.cache
+/Users/lucas/Desktop/42-piscine-decount/bin/Debug/netcoreapp3.1/Tweetinvi.Webhooks.dll

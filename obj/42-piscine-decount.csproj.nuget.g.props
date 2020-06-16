@@ -13,6 +13,7 @@
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgTweetinviAPI Condition=" '$(PkgTweetinviAPI)' == '' ">/Users/lucas/.nuget/packages/tweetinviapi/4.0.3</PkgTweetinviAPI>
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">/Users/lucas/.nuget/packages/newtonsoft.json/10.0.3</PkgNewtonsoft_Json>
+    <PkgTweetinviAPI Condition=" '$(PkgTweetinviAPI)' == '' ">/Users/lucas/.nuget/packages/tweetinviapi/4.0.1</PkgTweetinviAPI>
   </PropertyGroup>
 </Project>
